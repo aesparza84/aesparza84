@@ -1,5 +1,5 @@
 ## Welcome to my Github!
-- 🌱 I’m currently learning ... **Asp Net Core & Azure**
+- 🌱 I’m currently learning ... **Asp Net Core, Azure, SQL**
 
 - Some fun projects I've Worked on:
   - Bazooka! - https://theknechtion.itch.io/bazooka
