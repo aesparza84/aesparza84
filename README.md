@@ -5,6 +5,7 @@
 - Some fun projects I've Worked on:
   - Bazooka! - https://theknechtion.itch.io/bazooka
   - Tailing Torment - https://sparzington.itch.io/tailing-torment
+  - Scooter Champ - https://celestialqueen1.itch.io/scooter-champ
 <!--
 **aesparza84/aesparza84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
