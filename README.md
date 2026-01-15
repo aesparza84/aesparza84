@@ -1,5 +1,5 @@
 ## Welcome to my Github!
-- 🌱 I’m currently learning: **Asp Net Core, Azure, and SQL**    _...and whatever you throw at me_
+- 🌱 I’m currently learning: **Spring Boot and SQL**    _...and whatever you throw at me_
 
 
 - Some fun projects I've worked on:
