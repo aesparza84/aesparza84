@@ -1,6 +1,9 @@
 ## Welcome to my Github!
 - 🌱 I’m currently learning: **Spring Boot and SQL**    _...and whatever you throw at me_
 
+### Check out my page - https://aesparza84.github.io/
+
+### Resume - https://drive.google.com/file/d/1S7iKfiNEM2jd6z3uR0f02NXhjKCft4lo/view
 
 - Some fun projects I've worked on:
   - The Lords Trials - https://celestialqueen1.itch.io/the-lords-trials
