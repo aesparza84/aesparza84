@@ -3,7 +3,7 @@
 
 ### Check out my page - https://aesparza84.github.io/
 
-### Resume - https://drive.google.com/file/d/1S7iKfiNEM2jd6z3uR0f02NXhjKCft4lo/view
+### Resume - https://drive.google.com/file/d/1BB81KCasiqzFW1CCsXyqCS0Y6CTOc5e1/view?usp=sharing
 
 - Some fun projects I've worked on:
   - The Lords Trials - https://celestialqueen1.itch.io/the-lords-trials
